@@ -17,7 +17,7 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "emitDecoratorMetadata": true,
-    "target": "ES2021",
+    "target": "ESNext",
     "module": "CommonJS",
     "moduleResolution": "node",
     "outDir": "dist",
